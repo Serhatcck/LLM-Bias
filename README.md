@@ -115,14 +115,3 @@ curl -X POST http://localhost:3000/api/chat \
 
 Contributions are welcome! Feel free to open an issue or submit a Pull Request.
 
-## License
-
-This project is licensed under the ISC License.
-
-## Keywords
-
-logit bias lab, LLM bias, OpenAI API, language model control, GPT bias, LangChain, LangGraph, AI bias mitigation, token manipulation, LLM experimentation, bias testing
-
----
-
-**Built for exploring logit bias in a hands-on lab setting.**
