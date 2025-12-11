@@ -1,6 +1,6 @@
 # LLM Bias Lab: Experimenting with Logit Bias in LLMs
 
-An SEO-friendly lab environment designed to help you **experiment with logit bias** in Large Language Models. This project focuses on providing a hands-on workspace and simple workflows for testing how logit bias affects model responses—no deep theory here, just practical experimentation.
+A lab environment designed to help you **experiment with logit bias** in Large Language Models. This project focuses on providing a hands-on workspace and simple workflows for testing how logit bias affects model responses—no deep theory here, just practical experimentation.
 
 ## Table of Contents
 
